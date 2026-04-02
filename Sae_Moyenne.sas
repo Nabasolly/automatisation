@@ -1,5 +1,4 @@
-/*Moyenne des âges */
-libname Data "Z:\BUT2\S3\SAS\SAE";
+/*Moyenne des Ã¢ges */
 data donnees_age;
     set Data.donnees;
 	If not missing (DT_NAISSANCE) then do;
@@ -18,7 +17,7 @@ run;
                mean=moyenne;
     run;
     
-    /* Export du résultat dans Excel */
+    /* Export du rÃ©sultat dans Excel */
     proc export data=Res_Periode
         outfile="&&Repertoire&i..\&&Cible&i...xlsx"
         dbms=xlsx replace;
