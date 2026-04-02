@@ -1,6 +1,4 @@
 
-libname Data "Z:\BUT2\S3\SAS\SAE";
-
 data donnees_montant;
     set Data.donnees;
 run;
