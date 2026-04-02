@@ -5,7 +5,7 @@
 			ParametreSemaine= ,
 			Perimetre= ,
 			Frequence = );
-			
+libname Data "&Chemin.";			
 /*Bornes temporelles*/
  data _bornes;
         format DateDebut DateFin ddmmyy10.;
