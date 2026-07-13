@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_moyenne",
+  "source_file": "Sae_Moyenne.sas",
+  "source_blob_sha": "4c4d24b038580ea77c5e53ff0b3b577221ba5dcb",
+  "source_commit": "4315f31a4b8ad6630e0cd70b9dd115adb73067b9",
+  "notes": "Age computation (yrdif/datepart/ifn/floor) + %Moyenne macro (PROC MEANS mean of AGE over a date window). Mocked Data.donnees with 8 inline rows (date_survenance, DT_NAISSANCE, DT_DECES); xlsx export replaced with PROC PRINT of the mean."
+}

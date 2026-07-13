@@ -1,0 +1,22 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA Pilotage
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote Pilotage (5 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SAE_25
+
+
+NOTE: Read 5 rows from Pilotage.
+NOTE: Wrote SAE_25 (4 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=SAE_25
+
+NOTE: PROC PRINT completed: 4 observations printed, 5 variables

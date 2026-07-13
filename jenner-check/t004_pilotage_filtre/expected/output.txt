@@ -1,0 +1,7 @@
+                   Table de pilotage filtree par la macro (Frequence=Hebdo Mensuel, Perimetre=EDD RH)                   
+
+Critere_retour_initial  frequence  perimetre      Fichier  NomPrgmSAS
+GO                      Hebdo      EDD        Sae_Somme    Somme
+GO                      Mensuel    EDD        Sae_Moyenne  Moyenne
+GO                      Hebdo      RH         Sae_Somme    Somme
+GO                      Hebdo      EDD        Sae_Moyenne  Moyenne

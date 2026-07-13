@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_pilotage_filtre",
+  "source_file": "SAE_Programme_Principal (1).sas",
+  "source_blob_sha": "0f07f176a001d495c5610163279921801c16172e",
+  "source_commit": "4315f31a4b8ad6630e0cd70b9dd115adb73067b9",
+  "notes": "Macro-language WHERE builder from the SAE2025 orchestrator (%DO/%SYSFUNC(COUNTW)/%SCAN/%UPCASE/%IF generating an OR-chain filter that also drops STOP rows). PROC IMPORT of the pilotage xlsx replaced with an inline mock Pilotage table; the verbatim WHERE clause drives a DATA step filtered by Frequence=Hebdo Mensuel and Perimetre=EDD RH."
+}

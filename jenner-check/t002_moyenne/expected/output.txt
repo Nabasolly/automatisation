@@ -1,0 +1,11 @@
+                                                  The MEANS Procedure
+
+ Variable        Mean
+ --------------------
+ Age            46.88
+ --------------------
+
+                                            Moyenne des ages sur la periode                                             
+
+MOYENNE
+ 46.875

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_somme",
+  "source_file": "Sae_Somme.sas",
+  "source_blob_sha": "d22b745b3bad88f0c005f56314d25be2363cc447",
+  "source_commit": "4315f31a4b8ad6630e0cd70b9dd115adb73067b9",
+  "notes": "%Somme macro (PROC MEANS sum of MNT_RESTANT_A_SOLDER over a date window). Mocked the external Data.donnees libname with 10 inline rows (date_survenance, MNT_RESTANT_A_SOLDER) and set &DateDebut/&DateFin; xlsx export replaced with PROC PRINT of the computed total."
+}
