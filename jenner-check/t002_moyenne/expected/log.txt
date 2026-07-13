@@ -1,0 +1,26 @@
+
+NOTE: Option OBS changed to 100.
+NOTE: Library DATA uses 1 concatenated paths.
+NOTE: DATA data.donnees
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote data.donnees (8 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA donnees_age
+
+
+NOTE: Read 8 rows from data.donnees.
+NOTE: Wrote donnees_age (8 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC MEANS
+NOTE: Output dataset Res_Periode has 1 observations and 1 variables.
+NOTE: PROC MEANS statement used.
+NOTE: PROC PRINT data=Res_Periode
+
+NOTE: PROC PRINT completed: 1 observations printed, 1 variables

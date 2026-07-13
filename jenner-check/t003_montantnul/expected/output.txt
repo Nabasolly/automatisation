@@ -1,0 +1,4 @@
+                                   Nombre de montants nuls / non nuls sur la periode                                    
+
+nb_nuls  nb_nonnuls
+      4           6

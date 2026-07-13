@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T03:46:58Z",
+  "_captured_run_id": "r_e0512d9708d846a4af03bc4148ba8ba5",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: DATA SAE_25",
+    "NOTE: PROC PRINT completed: 4 observations printed, 5 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

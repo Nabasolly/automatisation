@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_montantnul",
+  "source_file": "Sae_MontantNul.sas",
+  "source_blob_sha": "81e8157f138b3d669b57f47060cd87c70368243b",
+  "source_commit": "4315f31a4b8ad6630e0cd70b9dd115adb73067b9",
+  "notes": "%MontantNUL macro (PROC SQL counting null vs non-null MNT_RESTANT_A_SOLDER via CASE, over a date window). Mocked Data.donnees with 10 inline rows; xlsx export replaced with PROC PRINT of the two counts."
+}

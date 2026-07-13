@@ -1,0 +1,4 @@
+                                       Somme MNT_RESTANT_A_SOLDER sur la periode                                        
+
+SOMME_MNT_RESTANT_A_SOLDER
+                    7111.9
